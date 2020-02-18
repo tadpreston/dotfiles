@@ -1,0 +1,4 @@
+" Plugin 'elixir-editors/vim-elixir'
+Plugin 'mhinz/vim-mix-format'
+Plugin 'ycm-core/YouCompleteMe'
+Plugin 'sheerun/vim-polyglot'
